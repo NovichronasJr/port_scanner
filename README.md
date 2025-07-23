@@ -20,3 +20,12 @@ A simple yet powerful **command-line port scanner** written in pure Python using
 ```bash
 git clone https://github.com/yourusername/port-scanner-python.git
 cd port-scanner-python
+```
+---
+### 2. Run the script
+
+```bash
+python3 portscanner.py <hostname>
+```
+---
+
