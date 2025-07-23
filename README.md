@@ -1,4 +1,4 @@
-# 🔍 Pure Python Port Scanner (CLI Tool)
+# 🔍 Pure Python Port Scanner (CLI Tool) and Shell Script program
 
 A simple yet powerful **command-line port scanner** written in pure Python using the standard `socket` library. It scans all TCP ports (`1–65535`) on a given host and reports which ports are open.
 
